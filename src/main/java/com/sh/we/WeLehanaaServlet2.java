@@ -22,7 +22,8 @@ public class WeLehanaaServlet2 extends HttpServlet {
 		response.getWriter()
 		.append("Served at: ")
 		.append(request.getContextPath())
-		.append("Lehanaa이 / hello에 응답했습니다.");
+		.append("Lehanaa이 / hello에 응답했습니다.")
+		.append("Lehanaa님이 / hello엥 응답했습니다2.");
 	}
 
 }
