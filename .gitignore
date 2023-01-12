@@ -156,7 +156,7 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
+<<<<<<< HEAD
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/java,eclipse,windows,macos
-
+=======
+*.lnk
