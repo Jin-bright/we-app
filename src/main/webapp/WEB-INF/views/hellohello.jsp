@@ -9,6 +9,7 @@
 <body>
 	<form action="" method ="get">
 	<input type="text" /> 안녕	
+	<input type="audio" />
 	</form>
 </body>
 </html>
