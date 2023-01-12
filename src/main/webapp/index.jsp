@@ -6,10 +6,12 @@
 <meta charset="UTF-8">
 <title> We App</title>
 <link rel="stylesheet" href="/css/style.css" />
+<!-- hana start -->
 </head>
+<!-- jin start -->
 <body>
 	<h1> We App</h1>
 	<h2>jin</h2>
-	<h2>hana</h2>
+	<h2>jin</h2>
 </body>
 </html>
