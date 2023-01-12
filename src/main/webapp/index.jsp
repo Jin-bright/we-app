@@ -12,6 +12,8 @@
 <body>
 	<h1> We App</h1>
 	<h2>jin</h2>
-	<h2>jin</h2>
+	<h2>one</h2>
+	<!-- jin start -->
+	<h2> conflict를 해결해보았습니다 （づ￣3￣）づ╭❤️～ </h2>
 </body>
 </html>
