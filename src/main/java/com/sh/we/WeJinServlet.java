@@ -19,10 +19,13 @@ public class WeJinServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter()
-		.append("Served at: ")
-		.append(request.getContextPath())
-		.append("jin이 /hello에 응답했습니다.");
+	//	response.getWriter()
+	//	.append("Served at: ")
+	//	.append(request.getContextPath())
+	//	.append("jin이 /hello에 응답했습니다.");
+		
+		request.getRequestDispatcher("/WEB-INF/views/hellohello.jsp")
+		.forward(request, response);
 	}
 
 }
